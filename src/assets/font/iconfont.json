@@ -1,0 +1,37 @@
+{
+  "id": "1711641",
+  "name": "project1",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "356438",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "551965",
+      "name": "箭头",
+      "font_class": "arrow-right-copy-copy",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "608351",
+      "name": "箭头",
+      "font_class": "jiantouarrow486",
+      "unicode": "e6aa",
+      "unicode_decimal": 59050
+    },
+    {
+      "icon_id": "5288591",
+      "name": "删除",
+      "font_class": "shanchu",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    }
+  ]
+}
